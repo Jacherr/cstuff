@@ -10,10 +10,10 @@
             "defines": [],
             "compilerPath": "/usr/bin/clang",
             "compilerArgs": [
-                "-std=gnu99"
+                "-std=gnu23"
             ],
             "cStandard": "gnu23",
-            "cppStandard": "c++17",
+            "cppStandard": "c++23",
             "intelliSenseMode": "linux-clang-x64"
         }
     ],

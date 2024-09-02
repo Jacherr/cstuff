@@ -39,7 +39,8 @@
         "text_encoding": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp",
-        "stddef.h": "c"
+        "stddef.h": "c",
+        "arena.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
