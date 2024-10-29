@@ -1,5 +1,5 @@
 #include "ll.h"
-
+/*
 struct record_ll *record_ll_new()
 {
     struct record_ll *ll = malloc(sizeof(struct record_ll));
@@ -27,3 +27,4 @@ struct record *record_ll_get(struct record_ll *ll, size_t index)
 
     return current;
 }
+*/

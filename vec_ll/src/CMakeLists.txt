@@ -5,3 +5,4 @@ file(GLOB_RECURSE SOURCES
 
 add_executable(vec_ll ${SOURCES})
 set_property(TARGET vec_ll PROPERTY C_STANDARD 23)
+target_link_libraries(vec_ll m)
