@@ -40,7 +40,10 @@
         "typeinfo": "cpp",
         "variant": "cpp",
         "stddef.h": "c",
-        "arena.h": "c"
+        "arena.h": "c",
+        "cstdlib": "c",
+        "libc-header-start.h": "c",
+        "sched.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
